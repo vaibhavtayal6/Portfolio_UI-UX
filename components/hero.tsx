@@ -81,7 +81,7 @@ export function Hero() {
             {/* Social Links */}
             <div className="flex gap-4 pt-4">
               <a
-                href="https://github.com/snowxx456"
+                href="https://github.com/vaibhavtayal6"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 hover:bg-input rounded-lg transition-colors text-primary hover:text-primary/80"
@@ -90,7 +90,7 @@ export function Hero() {
                 <Github className="w-5 h-5" />
               </a>
               <a
-                href="https://linkedin.com/in/vaibhav-tayal"
+                href="https://linkedin.com/in/vaibhavtayal"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 hover:bg-input rounded-lg transition-colors text-primary hover:text-primary/80"
@@ -99,7 +99,7 @@ export function Hero() {
                 <Linkedin className="w-5 h-5" />
               </a>
               <a
-                href="mailto:vaibhav@example.com"
+                href="mailto:vaibhavtayal8033@gmail.com"
                 className="p-3 hover:bg-input rounded-lg transition-colors text-primary hover:text-primary/80"
                 aria-label="Email"
               >
